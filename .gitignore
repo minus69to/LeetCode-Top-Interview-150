@@ -1,0 +1,3 @@
+# Ignore compiled object files and build directories
+o/
+.vscode/
