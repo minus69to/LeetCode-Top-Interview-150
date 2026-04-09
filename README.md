@@ -10,14 +10,14 @@ All solutions are written in **C++**.
 
 | Folder | Topic | What it covers |
 |--------|-------|----------------|
-| `01. Array - String` | Array / String | In-place operations, rotations, majority element, string manipulation |
-| `02. Two Pointers` | Two Pointers | Opposite-end and slow/fast pointer patterns |
-| `03. Sliding Window` | Sliding Window | Fixed and variable window over arrays/strings |
-| `04. Matrix` | Matrix | 2D traversal, rotation, spiral order |
-| `05. Hashmap` | Hashmap | Frequency counting, grouping, lookup optimization |
-| `06. Intervals` | Intervals | Merge, insert, and overlap detection |
-| `07. Stack` | Stack | Monotonic stack, expression evaluation |
-| `08. Linked List` | Linked List | Reversal, cycle detection, merge, reorder |
+| `Array - String` | Array / String | In-place operations, rotations, majority element, string manipulation |
+| `Two Pointers` | Two Pointers | Opposite-end and slow/fast pointer patterns |
+| `Sliding Window` | Sliding Window | Fixed and variable window over arrays/strings |
+| `Matrix` | Matrix | 2D traversal, rotation, spiral order |
+| `Hashmap` | Hashmap | Frequency counting, grouping, lookup optimization |
+| `Intervals` | Intervals | Merge, insert, and overlap detection |
+| `Stack` | Stack | Monotonic stack, expression evaluation |
+| `Linked List` | Linked List | Reversal, cycle detection, merge, reorder |
 | `Binary Search` | Binary Search | Sorted array search, boundary finding |
 | `Binary Search Tree` | BST | Validation, LCA, kth smallest |
 | `Binary Tree General` | Binary Tree | DFS traversals, construction, path problems |
